@@ -1,0 +1,7 @@
+C:\Users\Admin\Desktop\Csharpbasics\Conversion in C#\bin\Debug\Conversion in C#.exe.config
+C:\Users\Admin\Desktop\Csharpbasics\Conversion in C#\bin\Debug\Conversion in C#.exe
+C:\Users\Admin\Desktop\Csharpbasics\Conversion in C#\bin\Debug\Conversion in C#.pdb
+C:\Users\Admin\Desktop\Csharpbasics\Conversion in C#\obj\Debug\Conversion in C#.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Csharpbasics\Conversion in C#\obj\Debug\Conversion in C#.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Csharpbasics\Conversion in C#\obj\Debug\Conversion in C#.exe
+C:\Users\Admin\Desktop\Csharpbasics\Conversion in C#\obj\Debug\Conversion in C#.pdb
