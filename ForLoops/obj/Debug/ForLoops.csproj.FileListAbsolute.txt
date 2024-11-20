@@ -1,0 +1,7 @@
+C:\Users\Admin\Desktop\Csharpbasics\ForLoops\bin\Debug\ForLoops.exe.config
+C:\Users\Admin\Desktop\Csharpbasics\ForLoops\bin\Debug\ForLoops.exe
+C:\Users\Admin\Desktop\Csharpbasics\ForLoops\bin\Debug\ForLoops.pdb
+C:\Users\Admin\Desktop\Csharpbasics\ForLoops\obj\Debug\ForLoops.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Csharpbasics\ForLoops\obj\Debug\ForLoops.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Csharpbasics\ForLoops\obj\Debug\ForLoops.exe
+C:\Users\Admin\Desktop\Csharpbasics\ForLoops\obj\Debug\ForLoops.pdb

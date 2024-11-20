@@ -1,0 +1,7 @@
+C:\Users\Admin\Desktop\Csharpbasics\ConditionOperator\bin\Debug\ConditionOperator.exe.config
+C:\Users\Admin\Desktop\Csharpbasics\ConditionOperator\bin\Debug\ConditionOperator.exe
+C:\Users\Admin\Desktop\Csharpbasics\ConditionOperator\bin\Debug\ConditionOperator.pdb
+C:\Users\Admin\Desktop\Csharpbasics\ConditionOperator\obj\Debug\ConditionOperator.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Csharpbasics\ConditionOperator\obj\Debug\ConditionOperator.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Csharpbasics\ConditionOperator\obj\Debug\ConditionOperator.exe
+C:\Users\Admin\Desktop\Csharpbasics\ConditionOperator\obj\Debug\ConditionOperator.pdb
