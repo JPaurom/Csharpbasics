@@ -1,0 +1,7 @@
+C:\Users\Admin\Desktop\Csharpbasics\StringFormating\bin\Debug\StringFormating.exe.config
+C:\Users\Admin\Desktop\Csharpbasics\StringFormating\bin\Debug\StringFormating.exe
+C:\Users\Admin\Desktop\Csharpbasics\StringFormating\bin\Debug\StringFormating.pdb
+C:\Users\Admin\Desktop\Csharpbasics\StringFormating\obj\Debug\StringFormating.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Csharpbasics\StringFormating\obj\Debug\StringFormating.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Csharpbasics\StringFormating\obj\Debug\StringFormating.exe
+C:\Users\Admin\Desktop\Csharpbasics\StringFormating\obj\Debug\StringFormating.pdb

@@ -1,0 +1,7 @@
+C:\Users\Admin\Desktop\Csharpbasics\StringLooping\bin\Debug\StringLooping.exe.config
+C:\Users\Admin\Desktop\Csharpbasics\StringLooping\bin\Debug\StringLooping.exe
+C:\Users\Admin\Desktop\Csharpbasics\StringLooping\bin\Debug\StringLooping.pdb
+C:\Users\Admin\Desktop\Csharpbasics\StringLooping\obj\Debug\StringLooping.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Csharpbasics\StringLooping\obj\Debug\StringLooping.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Csharpbasics\StringLooping\obj\Debug\StringLooping.exe
+C:\Users\Admin\Desktop\Csharpbasics\StringLooping\obj\Debug\StringLooping.pdb

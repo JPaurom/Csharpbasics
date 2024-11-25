@@ -1,0 +1,7 @@
+C:\Users\Admin\Desktop\Csharpbasics\StringEquals\bin\Debug\StringEquals.exe.config
+C:\Users\Admin\Desktop\Csharpbasics\StringEquals\bin\Debug\StringEquals.exe
+C:\Users\Admin\Desktop\Csharpbasics\StringEquals\bin\Debug\StringEquals.pdb
+C:\Users\Admin\Desktop\Csharpbasics\StringEquals\obj\Debug\StringEquals.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Csharpbasics\StringEquals\obj\Debug\StringEquals.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Csharpbasics\StringEquals\obj\Debug\StringEquals.exe
+C:\Users\Admin\Desktop\Csharpbasics\StringEquals\obj\Debug\StringEquals.pdb
