@@ -1,0 +1,7 @@
+C:\Users\mikea\Desktop\Csharpbasics\Boolean Task In C#3\bin\Debug\Boolean Task In C#3.exe.config
+C:\Users\mikea\Desktop\Csharpbasics\Boolean Task In C#3\bin\Debug\Boolean Task In C#3.exe
+C:\Users\mikea\Desktop\Csharpbasics\Boolean Task In C#3\bin\Debug\Boolean Task In C#3.pdb
+C:\Users\mikea\Desktop\Csharpbasics\Boolean Task In C#3\obj\Debug\Boolean Task In C#3.csproj.AssemblyReference.cache
+C:\Users\mikea\Desktop\Csharpbasics\Boolean Task In C#3\obj\Debug\Boolean Task In C#3.csproj.CoreCompileInputs.cache
+C:\Users\mikea\Desktop\Csharpbasics\Boolean Task In C#3\obj\Debug\Boolean Task In C#3.exe
+C:\Users\mikea\Desktop\Csharpbasics\Boolean Task In C#3\obj\Debug\Boolean Task In C#3.pdb
