@@ -1,0 +1,7 @@
+C:\Users\mikea\Desktop\Csharpbasics\C# List uppgift\bin\Debug\C# List uppgift.exe.config
+C:\Users\mikea\Desktop\Csharpbasics\C# List uppgift\bin\Debug\C# List uppgift.exe
+C:\Users\mikea\Desktop\Csharpbasics\C# List uppgift\bin\Debug\C# List uppgift.pdb
+C:\Users\mikea\Desktop\Csharpbasics\C# List uppgift\obj\Debug\C# List uppgift.csproj.AssemblyReference.cache
+C:\Users\mikea\Desktop\Csharpbasics\C# List uppgift\obj\Debug\C# List uppgift.csproj.CoreCompileInputs.cache
+C:\Users\mikea\Desktop\Csharpbasics\C# List uppgift\obj\Debug\C# List uppgift.exe
+C:\Users\mikea\Desktop\Csharpbasics\C# List uppgift\obj\Debug\C# List uppgift.pdb
