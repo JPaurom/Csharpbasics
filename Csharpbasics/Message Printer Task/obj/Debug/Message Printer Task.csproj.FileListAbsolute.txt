@@ -1,0 +1,7 @@
+C:\Users\mikea\Desktop\Csharpbasics\Message Printer Task\bin\Debug\Message Printer Task.exe.config
+C:\Users\mikea\Desktop\Csharpbasics\Message Printer Task\bin\Debug\Message Printer Task.exe
+C:\Users\mikea\Desktop\Csharpbasics\Message Printer Task\bin\Debug\Message Printer Task.pdb
+C:\Users\mikea\Desktop\Csharpbasics\Message Printer Task\obj\Debug\Message Printer Task.csproj.AssemblyReference.cache
+C:\Users\mikea\Desktop\Csharpbasics\Message Printer Task\obj\Debug\Message Printer Task.csproj.CoreCompileInputs.cache
+C:\Users\mikea\Desktop\Csharpbasics\Message Printer Task\obj\Debug\Message Printer Task.exe
+C:\Users\mikea\Desktop\Csharpbasics\Message Printer Task\obj\Debug\Message Printer Task.pdb
