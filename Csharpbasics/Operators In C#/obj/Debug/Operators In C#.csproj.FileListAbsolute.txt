@@ -1,7 +1,0 @@
-C:\Users\mikea\Desktop\Csharpbasics\Operators In C#\bin\Debug\Operators In C#.exe.config
-C:\Users\mikea\Desktop\Csharpbasics\Operators In C#\bin\Debug\Operators In C#.exe
-C:\Users\mikea\Desktop\Csharpbasics\Operators In C#\bin\Debug\Operators In C#.pdb
-C:\Users\mikea\Desktop\Csharpbasics\Operators In C#\obj\Debug\Operators In C#.csproj.AssemblyReference.cache
-C:\Users\mikea\Desktop\Csharpbasics\Operators In C#\obj\Debug\Operators In C#.csproj.CoreCompileInputs.cache
-C:\Users\mikea\Desktop\Csharpbasics\Operators In C#\obj\Debug\Operators In C#.exe
-C:\Users\mikea\Desktop\Csharpbasics\Operators In C#\obj\Debug\Operators In C#.pdb
