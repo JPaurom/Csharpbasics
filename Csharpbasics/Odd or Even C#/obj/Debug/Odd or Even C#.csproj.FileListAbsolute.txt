@@ -1,0 +1,7 @@
+C:\Users\Admin\Desktop\Csharpbasics\Odd or Even C#\obj\Debug\Odd or Even C#.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Csharpbasics\Odd or Even C#\obj\Debug\Odd or Even C#.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Csharpbasics\Odd or Even C#\bin\Debug\Odd or Even C#.exe.config
+C:\Users\Admin\Desktop\Csharpbasics\Odd or Even C#\bin\Debug\Odd or Even C#.exe
+C:\Users\Admin\Desktop\Csharpbasics\Odd or Even C#\bin\Debug\Odd or Even C#.pdb
+C:\Users\Admin\Desktop\Csharpbasics\Odd or Even C#\obj\Debug\Odd or Even C#.exe
+C:\Users\Admin\Desktop\Csharpbasics\Odd or Even C#\obj\Debug\Odd or Even C#.pdb
