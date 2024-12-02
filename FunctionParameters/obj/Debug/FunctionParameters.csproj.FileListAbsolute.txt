@@ -1,0 +1,7 @@
+C:\Users\Admin\Desktop\Csharpbasics\FunctionParameters\bin\Debug\FunctionParameters.exe.config
+C:\Users\Admin\Desktop\Csharpbasics\FunctionParameters\bin\Debug\FunctionParameters.exe
+C:\Users\Admin\Desktop\Csharpbasics\FunctionParameters\bin\Debug\FunctionParameters.pdb
+C:\Users\Admin\Desktop\Csharpbasics\FunctionParameters\obj\Debug\FunctionParameters.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Csharpbasics\FunctionParameters\obj\Debug\FunctionParameters.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Csharpbasics\FunctionParameters\obj\Debug\FunctionParameters.exe
+C:\Users\Admin\Desktop\Csharpbasics\FunctionParameters\obj\Debug\FunctionParameters.pdb
