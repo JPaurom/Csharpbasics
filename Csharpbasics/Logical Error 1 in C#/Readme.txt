@@ -1,0 +1,1 @@
+Felet var i if (numbers[i] < max). Det borde vara if (numbers[i] > max) för att hitta det största värdet.
