@@ -1,0 +1,7 @@
+C:\Users\Admin\Desktop\Csharpbasics\Dictionary Case Task3\obj\Debug\Dictionary Case Task3.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Csharpbasics\Dictionary Case Task3\obj\Debug\Dictionary Case Task3.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Csharpbasics\Dictionary Case Task3\bin\Debug\Dictionary Case Task3.exe.config
+C:\Users\Admin\Desktop\Csharpbasics\Dictionary Case Task3\bin\Debug\Dictionary Case Task3.exe
+C:\Users\Admin\Desktop\Csharpbasics\Dictionary Case Task3\bin\Debug\Dictionary Case Task3.pdb
+C:\Users\Admin\Desktop\Csharpbasics\Dictionary Case Task3\obj\Debug\Dictionary Case Task3.exe
+C:\Users\Admin\Desktop\Csharpbasics\Dictionary Case Task3\obj\Debug\Dictionary Case Task3.pdb
