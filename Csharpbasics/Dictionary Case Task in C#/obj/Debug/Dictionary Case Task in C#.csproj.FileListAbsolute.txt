@@ -1,7 +1,0 @@
-C:\Users\Admin\Desktop\Csharpbasics\Dictionary Case Task in C#\bin\Debug\Dictionary Case Task in C#.exe.config
-C:\Users\Admin\Desktop\Csharpbasics\Dictionary Case Task in C#\bin\Debug\Dictionary Case Task in C#.exe
-C:\Users\Admin\Desktop\Csharpbasics\Dictionary Case Task in C#\bin\Debug\Dictionary Case Task in C#.pdb
-C:\Users\Admin\Desktop\Csharpbasics\Dictionary Case Task in C#\obj\Debug\Dictionary Case Task in C#.csproj.AssemblyReference.cache
-C:\Users\Admin\Desktop\Csharpbasics\Dictionary Case Task in C#\obj\Debug\Dictionary Case Task in C#.csproj.CoreCompileInputs.cache
-C:\Users\Admin\Desktop\Csharpbasics\Dictionary Case Task in C#\obj\Debug\Dictionary Case Task in C#.exe
-C:\Users\Admin\Desktop\Csharpbasics\Dictionary Case Task in C#\obj\Debug\Dictionary Case Task in C#.pdb
