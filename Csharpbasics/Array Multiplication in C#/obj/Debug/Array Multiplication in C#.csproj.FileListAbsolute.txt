@@ -1,0 +1,7 @@
+C:\Users\Admin\Desktop\Csharpbasics\Array Multiplication in C#\bin\Debug\Array Multiplication in C#.exe.config
+C:\Users\Admin\Desktop\Csharpbasics\Array Multiplication in C#\bin\Debug\Array Multiplication in C#.exe
+C:\Users\Admin\Desktop\Csharpbasics\Array Multiplication in C#\bin\Debug\Array Multiplication in C#.pdb
+C:\Users\Admin\Desktop\Csharpbasics\Array Multiplication in C#\obj\Debug\Array Multiplication in C#.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Csharpbasics\Array Multiplication in C#\obj\Debug\Array Multiplication in C#.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Csharpbasics\Array Multiplication in C#\obj\Debug\Array Multiplication in C#.exe
+C:\Users\Admin\Desktop\Csharpbasics\Array Multiplication in C#\obj\Debug\Array Multiplication in C#.pdb
