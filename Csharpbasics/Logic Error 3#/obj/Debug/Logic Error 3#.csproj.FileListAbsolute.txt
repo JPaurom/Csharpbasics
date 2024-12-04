@@ -1,0 +1,7 @@
+C:\Users\mikea\Desktop\Csharpbasics\Logic Error 3#\bin\Debug\Logic Error 3#.exe.config
+C:\Users\mikea\Desktop\Csharpbasics\Logic Error 3#\bin\Debug\Logic Error 3#.exe
+C:\Users\mikea\Desktop\Csharpbasics\Logic Error 3#\bin\Debug\Logic Error 3#.pdb
+C:\Users\mikea\Desktop\Csharpbasics\Logic Error 3#\obj\Debug\Logic Error 3#.csproj.AssemblyReference.cache
+C:\Users\mikea\Desktop\Csharpbasics\Logic Error 3#\obj\Debug\Logic Error 3#.csproj.CoreCompileInputs.cache
+C:\Users\mikea\Desktop\Csharpbasics\Logic Error 3#\obj\Debug\Logic Error 3#.exe
+C:\Users\mikea\Desktop\Csharpbasics\Logic Error 3#\obj\Debug\Logic Error 3#.pdb
