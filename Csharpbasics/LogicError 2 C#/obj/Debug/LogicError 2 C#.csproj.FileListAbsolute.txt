@@ -1,0 +1,7 @@
+C:\Users\mikea\Desktop\Csharpbasics\LogicError 2 C#\bin\Debug\LogicError 2 C#.exe.config
+C:\Users\mikea\Desktop\Csharpbasics\LogicError 2 C#\bin\Debug\LogicError 2 C#.exe
+C:\Users\mikea\Desktop\Csharpbasics\LogicError 2 C#\bin\Debug\LogicError 2 C#.pdb
+C:\Users\mikea\Desktop\Csharpbasics\LogicError 2 C#\obj\Debug\LogicError 2 C#.csproj.AssemblyReference.cache
+C:\Users\mikea\Desktop\Csharpbasics\LogicError 2 C#\obj\Debug\LogicError 2 C#.csproj.CoreCompileInputs.cache
+C:\Users\mikea\Desktop\Csharpbasics\LogicError 2 C#\obj\Debug\LogicError 2 C#.exe
+C:\Users\mikea\Desktop\Csharpbasics\LogicError 2 C#\obj\Debug\LogicError 2 C#.pdb
