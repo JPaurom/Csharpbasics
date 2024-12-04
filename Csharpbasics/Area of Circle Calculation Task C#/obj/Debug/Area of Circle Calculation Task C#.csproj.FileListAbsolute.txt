@@ -1,0 +1,7 @@
+C:\Users\mikea\Desktop\Csharpbasics\Area of Circle Calculation Task C#\bin\Debug\Area of Circle Calculation Task C#.exe.config
+C:\Users\mikea\Desktop\Csharpbasics\Area of Circle Calculation Task C#\bin\Debug\Area of Circle Calculation Task C#.exe
+C:\Users\mikea\Desktop\Csharpbasics\Area of Circle Calculation Task C#\bin\Debug\Area of Circle Calculation Task C#.pdb
+C:\Users\mikea\Desktop\Csharpbasics\Area of Circle Calculation Task C#\obj\Debug\Area of Circle Calculation Task C#.csproj.AssemblyReference.cache
+C:\Users\mikea\Desktop\Csharpbasics\Area of Circle Calculation Task C#\obj\Debug\Area of Circle Calculation Task C#.csproj.CoreCompileInputs.cache
+C:\Users\mikea\Desktop\Csharpbasics\Area of Circle Calculation Task C#\obj\Debug\Area of Circle Calculation Task C#.exe
+C:\Users\mikea\Desktop\Csharpbasics\Area of Circle Calculation Task C#\obj\Debug\Area of Circle Calculation Task C#.pdb
