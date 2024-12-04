@@ -1,0 +1,7 @@
+C:\Users\mikea\Desktop\Csharpbasics\TryParse Task in C#\bin\Debug\TryParse Task in C#.exe.config
+C:\Users\mikea\Desktop\Csharpbasics\TryParse Task in C#\bin\Debug\TryParse Task in C#.exe
+C:\Users\mikea\Desktop\Csharpbasics\TryParse Task in C#\bin\Debug\TryParse Task in C#.pdb
+C:\Users\mikea\Desktop\Csharpbasics\TryParse Task in C#\obj\Debug\TryParse Task in C#.csproj.AssemblyReference.cache
+C:\Users\mikea\Desktop\Csharpbasics\TryParse Task in C#\obj\Debug\TryParse Task in C#.csproj.CoreCompileInputs.cache
+C:\Users\mikea\Desktop\Csharpbasics\TryParse Task in C#\obj\Debug\TryParse Task in C#.exe
+C:\Users\mikea\Desktop\Csharpbasics\TryParse Task in C#\obj\Debug\TryParse Task in C#.pdb
