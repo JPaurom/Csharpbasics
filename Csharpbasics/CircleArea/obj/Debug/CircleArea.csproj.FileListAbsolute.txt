@@ -1,0 +1,7 @@
+C:\Users\Admin\Desktop\Csharpbasics\CircleArea\bin\Debug\CircleArea.exe.config
+C:\Users\Admin\Desktop\Csharpbasics\CircleArea\bin\Debug\CircleArea.exe
+C:\Users\Admin\Desktop\Csharpbasics\CircleArea\bin\Debug\CircleArea.pdb
+C:\Users\Admin\Desktop\Csharpbasics\CircleArea\obj\Debug\CircleArea.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Csharpbasics\CircleArea\obj\Debug\CircleArea.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Csharpbasics\CircleArea\obj\Debug\CircleArea.exe
+C:\Users\Admin\Desktop\Csharpbasics\CircleArea\obj\Debug\CircleArea.pdb
