@@ -1,0 +1,7 @@
+C:\Users\Admin\Desktop\Csharpbasics\ClassFieldsAssignmentI(24&25)\obj\Debug\ClassFieldsAssignmentI(24&25).csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Csharpbasics\ClassFieldsAssignmentI(24&25)\obj\Debug\ClassFieldsAssignmentI(24&25).csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Csharpbasics\ClassFieldsAssignmentI(24&25)\bin\Debug\ClassFieldsAssignmentI(24&25).exe.config
+C:\Users\Admin\Desktop\Csharpbasics\ClassFieldsAssignmentI(24&25)\bin\Debug\ClassFieldsAssignmentI(24&25).exe
+C:\Users\Admin\Desktop\Csharpbasics\ClassFieldsAssignmentI(24&25)\bin\Debug\ClassFieldsAssignmentI(24&25).pdb
+C:\Users\Admin\Desktop\Csharpbasics\ClassFieldsAssignmentI(24&25)\obj\Debug\ClassFieldsAssignmentI(24&25).exe
+C:\Users\Admin\Desktop\Csharpbasics\ClassFieldsAssignmentI(24&25)\obj\Debug\ClassFieldsAssignmentI(24&25).pdb
