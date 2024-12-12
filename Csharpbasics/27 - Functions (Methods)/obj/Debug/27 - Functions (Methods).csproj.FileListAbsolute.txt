@@ -1,0 +1,7 @@
+C:\Users\Admin\Desktop\Csharpbasics\27 - Functions (Methods)\bin\Debug\27 - Functions (Methods).exe.config
+C:\Users\Admin\Desktop\Csharpbasics\27 - Functions (Methods)\bin\Debug\27 - Functions (Methods).exe
+C:\Users\Admin\Desktop\Csharpbasics\27 - Functions (Methods)\bin\Debug\27 - Functions (Methods).pdb
+C:\Users\Admin\Desktop\Csharpbasics\27 - Functions (Methods)\obj\Debug\27 - Functions (Methods).csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Csharpbasics\27 - Functions (Methods)\obj\Debug\27 - Functions (Methods).csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Csharpbasics\27 - Functions (Methods)\obj\Debug\27 - Functions (Methods).exe
+C:\Users\Admin\Desktop\Csharpbasics\27 - Functions (Methods)\obj\Debug\27 - Functions (Methods).pdb
